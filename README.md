@@ -13,7 +13,7 @@
 
 > #### Figure showing the dataset with the final classifier (left) and the mean log loss error per epoch (right)
 >
-> ![alt text](https://github.com/syntax-surgeon/logistic-from-scratch/blob/main/readme_assets/training_plot.png?raw=true)
+> ![alt text](https://github.com/syntax-surgeon/logistic-regression-from-scratch/blob/main/readme_assets/training_plot.png?raw=true)
 
 #### Features planned for release 1.0
 
